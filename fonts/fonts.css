@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'noto_serif_tc_semiboldregular';
+    src: url('https://cdn.jsdelivr.net/gh/blogswami/siteassets/fonts/noto-serif-tc-semibold-webfont.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/blogswami/siteassets/fonts/noto-serif-tc-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
